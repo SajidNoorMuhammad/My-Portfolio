@@ -148,9 +148,9 @@ input:checked+.slider:before {
   transition: opacity 1s ease-in-out;
 }
 
-/* #slideshow img.active {
+#slideshow img.active {
   opacity: 1;
-} */
+}
 
 /* .marq{
   font-size: 40px;
