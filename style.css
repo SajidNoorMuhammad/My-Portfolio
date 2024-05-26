@@ -197,9 +197,9 @@ input:checked+.slider:before {
   margin-left: 10px;
 }
 
-/* .fa-brands:hover{
+.fa-brands:hover{
   color: #2196F3;
-} */
+}
 
 /* .text-one {
   margin-top: 5%;
