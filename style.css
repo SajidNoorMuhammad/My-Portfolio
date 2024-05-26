@@ -81,11 +81,11 @@ input:checked+.slider:before {
   margin-right: 20px;
 }
 
-/* .contain-one {
+.contain-one {
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 5%;
-} */
+}
 
 /* .welcome {
   font-size: 55px;
