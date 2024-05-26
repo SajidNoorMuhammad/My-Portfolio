@@ -93,11 +93,11 @@ input:checked+.slider:before {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* .welcome>.hi-hand {
+.welcome>.hi-hand {
   width: 45px;
   text-align: center;
   margin-bottom: 13px;
-} */
+}
 
 /* .text {
   margin-top: 5%;
