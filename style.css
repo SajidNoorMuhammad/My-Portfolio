@@ -112,9 +112,9 @@ input:checked+.slider:before {
   margin-top: 5%;
 }
 
-/* .contact-image>img:hover {
+.contact-image>img:hover {
   box-shadow: 0px 0px 10px black;
-} */
+}
 
 /* .btn-one {
   margin-top: 7%;
