@@ -77,9 +77,9 @@ input:checked+.slider:before {
   color: white;
 }
 
-/* .switch {
+.switch {
   margin-right: 20px;
-} */
+}
 
 /* .contain-one {
   margin-left: 5%;
