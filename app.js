@@ -1,5 +1,5 @@
 var slideIndex = 0;
-// var slides = document.querySelectorAll('#slideshow img');
+var slides = document.querySelectorAll('#slideshow img');
 
 function showSlides() {
 slideIndex++;
