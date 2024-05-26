@@ -87,11 +87,11 @@ input:checked+.slider:before {
   margin-top: 5%;
 }
 
-/* .welcome {
+.welcome {
   font-size: 55px;
   color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-} */
+}
 
 /* .welcome>.hi-hand {
   width: 45px;
