@@ -201,11 +201,11 @@ input:checked+.slider:before {
   color: #2196F3;
 }
 
-/* .text-one {
+.text-one {
   margin-top: 5%;
   font-size: 20px;
   color: #868e96;
-} */
+}
 
 /* .image-left{
   width: 100%;
