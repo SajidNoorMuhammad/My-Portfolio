@@ -207,7 +207,7 @@ input:checked+.slider:before {
   color: #868e96;
 }
 
-/* .image-left{
+.image-left{
   width: 100%;
   height: 400px;
-} */
+}
