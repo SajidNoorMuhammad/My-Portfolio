@@ -175,12 +175,12 @@ input:checked+.slider:before {
     margin-top: 5%;
   }
 
-  /* .contact-image>img {
+  .contact-image>img {
     width: 50px;
     margin-left: 0px;
     border-radius: 10px;
     margin-top: 5%;
-  } */
+  }
 }
 
 /* .second-row{
