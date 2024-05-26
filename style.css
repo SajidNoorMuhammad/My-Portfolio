@@ -73,9 +73,9 @@ input:checked+.slider:before {
   color: white;
 }
 
-/* .nav-item>.nav-link {
+.nav-item>.nav-link {
   color: white;
-} */
+}
 
 /* .switch {
   margin-right: 20px;
