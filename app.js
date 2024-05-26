@@ -14,4 +14,4 @@ slides[i].classList.remove('active');
 slides[slideIndex].classList.add('active');
 }
 
-setInterval(showSlides, 2000);
+// setInterval(showSlides, 2000);
