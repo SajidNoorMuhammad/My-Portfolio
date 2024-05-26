@@ -191,11 +191,11 @@ input:checked+.slider:before {
   color: black;
 }
 
-/* .fa-brands{
+.fa-brands{
   font-size: 45px;
   color: #868e96;
   margin-left: 10px;
-} */
+}
 
 /* .fa-brands:hover{
   color: #2196F3;
