@@ -99,11 +99,11 @@ input:checked+.slider:before {
   margin-bottom: 13px;
 }
 
-/* .text {
+.text {
   margin-top: 5%;
   font-size: 23px;
   color: #868e96;
-} */
+}
 
 /* .contact-image>img {
   width: 50px;
