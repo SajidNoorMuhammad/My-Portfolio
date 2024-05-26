@@ -133,9 +133,9 @@ input:checked+.slider:before {
   border: 2px solid black;
 }
 
-/* #slideshow {
+#slideshow {
   position: relative;
-} */
+}
 
 /* #slideshow img {
   object-fit: cover;
