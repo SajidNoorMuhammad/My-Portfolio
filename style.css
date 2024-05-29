@@ -226,10 +226,10 @@ input:checked+.slider:before {
     margin-top: 3%;
   }
 
-  /* .navbar-collapse{
+  .navbar-collapse{
     padding: 10px 0px;
     margin-left: 5%;
-  } */
+  }
 
   /* .switch{
     display: none;
