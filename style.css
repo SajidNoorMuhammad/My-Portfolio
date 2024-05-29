@@ -214,9 +214,9 @@ input:checked+.slider:before {
 }
 
 @media only screen and (max-width: 600px){
-  /* .second-row{
+  .second-row{
     margin-top: 75% !important;
-  } */
+  }
 
   /* .image-two{ */
     display: none;
