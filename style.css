@@ -218,7 +218,7 @@ input:checked+.slider:before {
     margin-top: 75% !important;
   }
 
-  /* .image-two{ */
+  .image-two{
     display: none;
   }
 
