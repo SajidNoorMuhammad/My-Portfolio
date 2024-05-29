@@ -222,9 +222,9 @@ input:checked+.slider:before {
     display: none;
   }
 
-  /* .text-col{
+  .text-col{
     margin-top: 3%;
-  } */
+  }
 
   /* .navbar-collapse{
     padding: 10px 0px;
